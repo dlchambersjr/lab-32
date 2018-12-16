@@ -1,9 +1,6 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
-=================================================
+## Lab-32: Code:Forms
 
-## Project Name
-
-### Author: Student/Group Name
+### Author: David Chambers
 
 ### Links and Resources
 * [REPO](https://github.com/dlchambersjr/lab-32)
@@ -36,7 +33,6 @@ Creates the necessary information to be passed to the action/reducer to delete a
 
 ###### `editRecord` -> updates state
 Updates state with the id of the record selected to edit and displays the form with that record.
-
 
 #### `components/record/record.js` -> form based on model schema
 ##### Exported Values and Methods
